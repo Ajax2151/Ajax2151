@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajax2151
-- 👀 I’m interested in creating websites and apps that can be used in everyday life for fun and/or profit.
-- 🌱 I’m currently adding to my front end knowledge
+- 👀 I’m interested in playing and creating computer games.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 I can be reached at ajackson2511@gmail.com
 
